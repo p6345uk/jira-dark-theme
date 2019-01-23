@@ -13,4 +13,4 @@ and load the extension using `Load unpacked extension`.
 
 I don't have any plans to publish this extension at the moment.
 
-To Update the Theme Specify the url's in the manifest.json file
+To Update the url's this need to be done in the in the manifest.json file
